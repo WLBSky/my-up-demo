@@ -1,5 +1,7 @@
 package com.example.demo;
 
+import java.io.Serializable;
+
 public class Response implements Serializable { // 标记Serializable接口
 
     private String id;
